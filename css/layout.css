@@ -640,7 +640,7 @@ fieldset[disabled] .btn-theme {
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 
-.header .logo-img-active {
+.header .logo-img-activeactive {
   display: none;
   transition-duration: 400ms;
   transition-property: all;
